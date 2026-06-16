@@ -20,7 +20,10 @@ CDC_ON_BOOT=ON
 <img width="496" height="463" alt="image" src="https://github.com/user-attachments/assets/53568b98-19f6-465e-b356-7bc991c46e36" />
 
 You can buy a DIY kit from me directly also there's a customer PCB required (works out much cheaper to buy or have premade!)
-Parts required - 
+
+
+*Parts required* - 
+
 LP402535 - https://www.amazon.co.uk/EEMB-402535-Rechargeable-Connector-Certified/dp/B08215N9R8/ref=asc_df_B08215N9R8?mcid=93324f3ae53c35e4b1d6446cac8d802a&tag=googshopuk-21&linkCode=df0&hvadid=697249433713&hvpos=&hvnetw=g&hvrand=7397641060738400917&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006602&hvtargid=pla-990836091110&hvocijid=7397641060738400917-B08215N9R8-&hvexpln=0&gad_source=1&th=1
 
 TFT 240x240Round Display - https://www.amazon.co.uk/Hailege-GC9A01-240x240-Display-Interface/dp/B0CJY4Q6YB/ref=asc_df_B0CJY4Q6YB?mcid=3f0551fc68ca3f5fa1d5fdbeaaf7623c&tag=googshopuk-21&linkCode=df0&hvadid=710804269330&hvpos=&hvnetw=g&hvrand=14476485754611708211&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006602&hvtargid=pla-2395466901284&hvocijid=14476485754611708211-B0CJY4Q6YB-&hvexpln=0&gad_source=1&th=1
