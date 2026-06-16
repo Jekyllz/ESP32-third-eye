@@ -1,6 +1,8 @@
 # ESP32-third-eye
 Flashy Third Eye Keychain - ESP32C3 with a TFT 240x240 round display :) 
 
+Stay tuned for a full explanation video breakdown!
+
 https://github.com/user-attachments/assets/96602202-458b-44b2-9f93-7006af71f293
 
 https://www.youtube.com/shorts/7sj0YZZGYZA
