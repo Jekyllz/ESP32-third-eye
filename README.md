@@ -19,7 +19,7 @@ CDC_ON_BOOT=ON
 
 <img width="496" height="463" alt="image" src="https://github.com/user-attachments/assets/53568b98-19f6-465e-b356-7bc991c46e36" />
 
-You can buy a DIY kit from me (I'm non-profit hobbyist) directly also there's a custom PCB required to manufactor and purchase (works out much cheaper to buy kit or have premade!)
+You can buy a DIY kit from me (I'm non-profit hobbyist) directly also there's a custom PCB required to manufactor and purchase (works out much cheaper to buy kit or haveI can make and ship!)
 
 STL FILES > https://www.printables.com/model/1755628-case-for-the-esp32-digital-keychain
 
