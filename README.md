@@ -1,13 +1,7 @@
 # ESP32-third-eye
 Flashy Third Eye Keychain - ESP32C3 with a TFT 240x240 round display :) 
 
-<img width="1373" height="1923" alt="copy-20260616_085851" src="https://github.com/user-attachments/assets/f9b7c828-8c5a-4c74-98b0-29d18d8d7dad" />
-
-
-
 https://github.com/user-attachments/assets/96602202-458b-44b2-9f93-7006af71f293
-
-
 
 This was programmed using Platform IO but you can create easily in Arduino IDE using the board device settings below!
 
