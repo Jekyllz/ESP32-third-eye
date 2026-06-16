@@ -7,7 +7,10 @@ https://github.com/user-attachments/assets/96602202-458b-44b2-9f93-7006af71f293
 
 https://www.youtube.com/shorts/7sj0YZZGYZA
 
-Reach out to me! > https://www.reddit.com/user/Jekyllz/
+Case for the ESP32 Digital Keychain! by Jake Cope | Download STL model | Printables.com https://share.google/iLub79oQowGHvac2F
+
+
+Reach out for any questions! > https://www.reddit.com/user/Jekyllz/
 
 This was programmed using Platform IO but you can create easily in Arduino IDE using the board device settings below and copy pasta main.cpp into it!
 
