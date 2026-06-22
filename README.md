@@ -25,7 +25,7 @@ CDC_ON_BOOT=ON
 <img width="496" height="463" alt="image" src="https://github.com/user-attachments/assets/53568b98-19f6-465e-b356-7bc991c46e36" />
 
 You can buy a DIY kit from me (I'm non-profit hobbyist) directly also there's a custom PCB required to manufactor and purchase (works out much cheaper to buy kit or I have ready built pieces to send out!)
-https://www.tindie.com/products/jekyllz/2x-tft-adaptor-for-the-esp32c3-super-mini/
+[https://www.tindie.com/products/jekyllz/2x-tft-adaptor-for-the-esp32c3-super-mini/](https://www.tindie.com/products/jekyllz/esp-flashy-keychain/)
 
 STL FILES > https://www.printables.com/model/1755628-case-for-the-esp32-digital-keychain
 
