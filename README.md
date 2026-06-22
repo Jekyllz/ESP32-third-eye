@@ -39,7 +39,8 @@ ESP32C3 - https://www.amazon.co.uk/diymore-ESP32-C3-Development-Bluetooth-Projec
 
 slide switches - https://www.amazon.co.uk/dp/B09TVFF6KW?ref=ppx_yo2ov_dt_b_fed_asin_title
 
-PCB Adapter - Reach out to me for a copy! This is custom built! [third-eye-Gerber_PCB2_2026-06-16.zip](https://github.com/user-attachments/files/28994404/third-eye-Gerber_PCB2_2026-06-16.zip)
+PCB Adapter - grab a copy here! https://www.tindie.com/products/jekyllz/2x-tft-adaptor-for-the-esp32c3-super-mini/
+    This is custom built! [third-eye-Gerber_PCB2_2026-06-16.zip](https://github.com/user-attachments/files/28994404/third-eye-Gerber_PCB2_2026-06-16.zip)
 
 tact button - https://www.amazon.co.uk/dp/B008DS1DPM?ref=ppx_yo2ov_dt_b_fed_asin_title
 
